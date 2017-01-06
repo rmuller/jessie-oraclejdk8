@@ -11,9 +11,9 @@ Total size of this image is 247 MB.
 
 This image is available via [hub.docker.com](https://hub.docker.com/r/rmuller/jessie-oraclejdk8/).
 
-| Docker tag | Debian 8   | Oracle JDK 8 | Maven 3  |
-|------------|------------|--------------|----------|
-| 1.0.0      | 8.6        | 1.8.0_112    | 3.3.9    |
+| Docker tag | Debian 8         | Oracle JDK 8 | Maven 3  |
+|------------|------------------|--------------|----------|
+| 1.0.0      | 8.6 x86-64 4.4.0 | 1.8.0_112    | 3.3.9    |
 
 To run this image in interactive mode:
 
